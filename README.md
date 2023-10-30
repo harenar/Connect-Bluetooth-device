@@ -1,10 +1,12 @@
-# Connect-Bluetooth-device
+# Connect-Bluetooth-device.
+This is sample website to create in django framework and using python to connect bluetooth device.
 Requirements:
 
-pip install python
-pip install django
+1. pip install python
+2. pip install django
 
 // library to install necessary.
-pip install PyBluez
-pip install django-guardian
-This is sample website to create in django framework and using python to connect bluetooth device.
+
+3. pip install PyBluez
+4. pip install django-guardian
+
